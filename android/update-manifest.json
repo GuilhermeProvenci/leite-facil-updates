@@ -4,7 +4,7 @@
   "releaseDate": "2026-01-16",
   "releaseNotes": "Versão inicial do Leite Fácil",
   "mandatory": false,
-  "downloadUrl": "https://LINK...",
-  "fileSize": "~25MB",
+  "downloadUrl": "https://github.com/GuilhermeProvenci/leite-facil-updates/releases/download/v1.0.0/leite-facil.apk",
+  "fileSize": "~6MB",
   "minSupportedVersion": 1
 }
