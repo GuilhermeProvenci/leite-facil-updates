@@ -4,7 +4,7 @@
   "releaseDate": "2026-01-16",
   "releaseNotes": "Melhoria na gestão do estoque e lançamento de entradas \n - Cadastro de modelo de entradas no estoque \n - Tela de previsão de gastos \n - Correção de bugs menores",
   "mandatory": false,
-  "downloadUrl": "https://github.com/GuilhermeProvenci/leite-facil-updates/releases/download/v1.0.0.2/leite-facil.apk ",
+  "downloadUrl": "https://github.com/GuilhermeProvenci/leite-facil-updates/releases/download/v1.0.0.6/leite-facil.apk ",
   "fileSize": "~6MB",
-  "minSupportedVersion":3
+  "minSupportedVersion":5
 }
